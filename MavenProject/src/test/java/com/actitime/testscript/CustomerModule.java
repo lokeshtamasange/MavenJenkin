@@ -8,7 +8,8 @@ public class CustomerModule {
 	@Test
 public void CreateCustomer() {
 		Reporter.log("welcome to Maven",true);
-	
-	
 }
+	public void demo() {
+		Reporter.log("hello",true);
+	}
 }
